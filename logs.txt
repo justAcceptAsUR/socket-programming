@@ -1,0 +1,12 @@
+problems:
+    
+
+mistakes:
+    port is of type numeric not string
+        wrong: port='443'
+        correct: port = 443
+    ->send() method uses byte formate for arguements
+        -> use encode() to convert to byte formate
+        -> and decode() to get original data
+
+    ->server will talk on new Accepted connection

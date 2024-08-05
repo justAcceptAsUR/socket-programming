@@ -1,0 +1,2 @@
+-> without socket there is no communication possible on internet
+-> special thanks to socket's that we are able to watch/read content hosted on internet
